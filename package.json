@@ -1,0 +1,12 @@
+{
+    "name": "jclass-problem",
+    "version": "1.0.0",
+    "description": "Innovu Fun Problem",
+    "main": "jclass.js",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/travis-jm/jsClass_problem.git"
+    },
+    "author": "tmiller",
+    "license": "MIT"
+}
