@@ -1,0 +1,4 @@
+Car { make: 'Chevrolet', model: 'Corvette' }
+Car { make: 'Corvette', model: 'C7.R' }
+Chevrolet Corvette
+Corvette C7.R
