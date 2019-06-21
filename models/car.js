@@ -12,7 +12,6 @@ export default class Car {
 		this.model = model;
 	}
 	details() {
-    console.log(`${this.make} ${this.model}`);
+		console.log(`${this.make} ${this.model}`);
 	}
 }
-

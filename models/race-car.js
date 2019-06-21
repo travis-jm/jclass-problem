@@ -10,6 +10,6 @@ export default class RaceCar extends Car {
 		this.classification = classification;
 	}
 	details() {
-    console.log(`${this.make} ${this.model} ${this.classification}`);
+		console.log(`${this.make} ${this.model} ${this.classification}`);
 	}
 }
